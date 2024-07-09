@@ -45,12 +45,16 @@
 		</dependency>
 	</dependencies>
 
+<<<<<<< HEAD
 	<!-- Add Spring Boot Maven Plugin -->
+=======
+>>>>>>> 91eb779d026041400220009c0f964c38529ae061
 	<build>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+<<<<<<< HEAD
 				<version>3.3.1</version>
 				<executions>
 					<execution>
@@ -59,9 +63,14 @@
 						</goals>
 					</execution>
 				</executions>
+=======
+>>>>>>> 91eb779d026041400220009c0f964c38529ae061
 			</plugin>
 		</plugins>
 	</build>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 91eb779d026041400220009c0f964c38529ae061
 </project>
